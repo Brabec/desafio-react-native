@@ -1,0 +1,45 @@
+[
+    {   
+        "id": 0,
+        "name": "React Native",
+        "description": "Estudar mais sobre React Native",
+        "date": "",
+        "dueDate": ""
+
+    },
+    {
+        "id": 1,
+        "name": "Redux",
+        "description": "Estudar mais sobre Redux",
+        "date": "",
+        "dueDate": ""
+    },
+    {
+        "id": 2,
+        "name": "Sistemas Operacionais",
+        "description": "Estudar mais sobre Sistemas Operacionais",
+        "date": "",
+        "dueDate": ""
+    },
+    {
+        "id": 3,
+        "name": "Desenvolvimento de Software I",
+        "description": "Estudar mais sobre Desenvolvimento de Software I",
+        "date": "",
+        "dueDate": ""
+    },
+    {
+        "id": 4,
+        "name": "Unity3d",
+        "description": "Estudar mais sobre Unity3d",
+        "date": "",
+        "dueDate": ""
+    },
+    {
+        "id": 5,
+        "name": "PixelArt",
+        "description": "Estudar mais sobre PixelArt",
+        "date": "",
+        "dueDate": ""
+    }
+]
