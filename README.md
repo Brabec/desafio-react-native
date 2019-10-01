@@ -42,3 +42,5 @@ Your app should be able to complete the following tasks:
 * Include animations
 * Include tags
 * Use [FLow](https://flow.org)
+
+## Have fun during the process
